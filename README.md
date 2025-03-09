@@ -188,7 +188,7 @@
         <a href="/Kotisivu">Koti</a>
         <a href="/Meista">Meistä</a>
          <a href="#yritys" class="active">Yritys</a>
-        <a href="/Palvelut>Palvelut</a>
+        <a href="/Palvelut">Palvelut</a>
         <a href="/Koulutus">Koulutus</a>
         <!-- Hamburger Icon -->
         <a href="javascript:void(0);" class="icon" onclick="toggleNavbar()">&#9776;</a>
