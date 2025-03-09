@@ -185,7 +185,7 @@
 
     <!-- Top Navigation Bar placed before the header -->
     <div class="navbar" id="myNavbar">
-        <a href="#home">Koti</a>
+        <a href="/Kotisivu">Koti</a>
         <a href="/Meista">Meistä</a>
          <a href="#yritys" class="active">Yritys</a>
         <a href="#contact">Palvelut</a>
