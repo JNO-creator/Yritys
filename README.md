@@ -266,15 +266,15 @@
       <!-- Main Content -->
       <section>
           <div class="box-container">
-              <!-- Tarina Box (Smaller) -->
+              <!-- Visio Box (Smaller) -->
               <div class="box-small">
-                  <h3>Kuinka tarinamme alkoi?</h3>
+                  <h3>Mikä on visiomme?</h3>
                   <a href="/Meista" class="cta-btn">Lue lisää</a>
               </div>
  
-              <!-- Palvelut Box (Smaller) -->
+              <!-- Toiminta Box (Smaller) -->
               <div class="box-small">
-                  <h3>Palvelut Sinun liiketoiminnallesi</h3>
+                  <h3>Mille toimintamme perustuu?</h3>
                   <a href="/Meista" class="cta-btn">Tutustu</a>
               </div>
  
