@@ -278,16 +278,16 @@
                   <a href="/Meista" class="cta-btn">Tutustu</a>
               </div>
  
-              <!-- Referenssit Box (With Background Image) -->
+              <!-- Arvot Box (With Background Image) -->
               <div class="box-image">
-                  <h3>Tutustu jo olemassa oleviin asiakkaisiin.</h3>
+                  <h3>Miksi haluamme auttaa Tulevaisuutesi Suunnittelussa</h3>
                <a href="/Meista" class="cta-btn">Lue lisää</a>
               </div>
  
-              <!-- Ota yhteyttä Box (With Background Image) -->
+              <!-- Henkilökunta (With Background Image) -->
               <div class="box-image">
-                  <h3>Ota rohkeasti yhteyttä ja kysy lisätietoja</h3>
-              <a href="/Meista" class="cta-btn">Lähesty</a>
+                  <h3>Henkilökuntamme esittäytyy</h3>
+              <a href="/Meista" class="cta-btn">Tutustu</a>
               </div>
           </div>
       </section>
