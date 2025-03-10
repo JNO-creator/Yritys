@@ -80,7 +80,6 @@
                  right: 0;
                  top: 0;
              }
-         }
  
          /* Styling for the header with rolling text effect */
          .header {
@@ -243,8 +242,8 @@
      <!-- Top Navigation Bar placed before the header -->
      <div class="navbar" id="myNavbar">
          <a href="/Kotisivu">Koti</a>
-         <a href="#Meista" class="active">Meistä</a>
-         <a href="/Yritys">Yritys</a>
+         <a href="#Yritys" class="active">Yritys</a>
+         <a href="/Meista">Meistä</a>
          <a href="/Palvelut">Palvelut</a>
          <a href="/Koulutus">Koulutus</a>
          <!-- Hamburger Icon -->
