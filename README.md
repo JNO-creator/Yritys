@@ -259,7 +259,7 @@
  
       <!-- New Text Section -->
       <div class="intro-text">
-          <h2>Anna meidän auttaa Sinua ja liiketoimintaasi!</h2>
+          <h2>Olemme täällä Sinua ja liiketoimintaasi varten!</h2>
           <p>Haluamme poistaa digitaalisen eriarvoisuuden yhteiskuntamme rakenteista.</p>
       </div>
  
